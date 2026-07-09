@@ -1,0 +1,37 @@
+# Executables
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static and shared libraries
+*.a
+*.so
+*.dll
+*.lib
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile
+cmake_install.cmake
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
