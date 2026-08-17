@@ -1,3 +1,11 @@
+# Credentials and authentication tokens
+credentials.json
+token.json
+*.pem
+*.key
+*.p12
+*.pfx
+
 # Executables
 a.out
 *.out
@@ -35,3 +43,11 @@ cmake_install.cmake
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+env/
